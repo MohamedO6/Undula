@@ -1,5 +1,7 @@
 # Deploying the Undula application
 
+**Production:** [undula.vercel.app](https://undula.vercel.app/) · **Vercel project:** `fringe6/undula` · **Source:** `MohamedO6/Undula`, branch `main`.
+
 Undula is a static HTML/CSS/JavaScript application. Its data and artwork are bundled in the repository; live catalogue queries run in the browser. No application server or database is required.
 
 ## Import on Vercel
