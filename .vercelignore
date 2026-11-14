@@ -1,0 +1,20 @@
+# Keep deployment uploads focused on the browser application.
+.git/
+.github/
+.venv/
+venv/
+node_modules/
+pipeline/
+Tools/
+docs/
+video/
+presentation/
+submission/
+*.md
+*.mp4
+*.webm
+*.mov
+*.avi
+*.zip
+.env
+.env.*
