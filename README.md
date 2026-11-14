@@ -129,7 +129,4 @@ vercel.json                    Static hosting configuration
 **Project team:** Team Shiblanga — Omar, Mohamed and Islam.
 
 The project uses NASA/JPL-Caltech and ISRO NISAR products through ASF, NASA/USGS Landsat through Microsoft Planetary Computer, Nevada Geodetic Laboratory GNSS, Copernicus elevation, Esri imagery, OpenStreetMap context and credited photographs. Full acknowledgments and third-party notices are in [docs/ACKNOWLEDGMENTS.md](docs/ACKNOWLEDGMENTS.md) and the application Guide.
-
-Claude and OpenAI Codex assisted code, analysis scripts and writing under team direction and review. Google Flow was used for astronaut characters; OpenAI imagegen was used for Journey illustrations. Satellite and GNSS observations come from the cited datasets.
-
 Project code is licensed under **[MIT](LICENSE)**. The original copyright notice is retained; datasets, libraries and third-party imagery retain their respective terms and credits.
